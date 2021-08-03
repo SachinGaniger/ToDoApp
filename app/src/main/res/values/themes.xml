@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+    <style name="DialogTheme" parent="Theme.MaterialComponents.Light.Dialog">
         <item name="android:textColor">@color/purple_500</item>
         <item name="colorAccent">@color/purple_500</item>
     </style>
